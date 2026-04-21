@@ -7,17 +7,17 @@ Analyzes 8,000+ titles from Netflix to uncover content trends, audience preferen
 
 **Tools:** Power BI · SQL · Excel
 
-<br>
-
 ## 🔑 Key Insights
 
 * 📈 Content additions grew rapidly between **2016–2019**, peaking in 2019, indicating aggressive platform expansion
-* 🎬 Movies dominate the catalog, while TV Shows show steady and consistent growth over time
-* 🔞 Majority of content is rated **TV-MA** and **TV-14**, highlighting a strong focus on mature audiences
+* 🎬 Movies dominate the catalog, while TV Shows show steady growth over time
+* 🔞 Majority of content is rated **TV-MA** and **TV-14**, highlighting a focus on mature audiences
 * 🌍 **International Movies** lead across genres, reflecting Netflix’s global content strategy
-* 🎭 **Drama and Comedy** are the most prominent genres, indicating high and consistent audience demand
+* 🎭 **Drama and Comedy** are the most prominent genres, indicating strong audience demand
 * 🌐 Content is widely distributed across **North America, Europe, and Asia**, with emerging markets gaining traction
-* 📉 A slight decline post-2020 suggests production slowdowns or strategic content shifts
+* 📉 A slight decline post-2020 suggests production slowdowns
+
+---
 
 <br>
 
