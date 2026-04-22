@@ -24,7 +24,7 @@ The objective of this project is to analyze content trends and audience preferen
 
 * Source: Netflix Titles Dataset
 * Records: 8,000+ titles
-* Key Fields: Title, Genre, Rating, Release Year, Country, Duration , Director , Cast , Listed in , Description
+* Key Fields: Title, Genre, Rating, Release Year, Country,Duration, Director, Cast, Listed In, Description ✅
 * Format: CSV files
 * Preprocessing done using Excel and SQL
 
@@ -59,7 +59,7 @@ The objective of this project is to analyze content trends and audience preferen
 
 6. Insight Generation:
 
-   * Analyzed trends , audience preferences and generated business insights.
+   * Analyzed content trends and audience preferences to generate actionable business insights
 
 <br>
 
